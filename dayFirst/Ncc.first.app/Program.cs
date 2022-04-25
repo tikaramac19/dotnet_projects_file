@@ -5,13 +5,14 @@ namespace HelloWorld
     {
         public static void Main()
         {
-                Console.WriteLine("What is your name?");
+               Console.WriteLine("What is your name ?");
 
-                var fullname = Console.ReadLine();
-                var currentDate = DateTime.Now;
-                Console.WriteLine($"{Environment.NewLine} Hello,  {fullname}, on {currentDate} at {currentDate}");
-                Console.Write($"{Environment.NewLine} press any key to exit...");
-                Console.ReadKey(true);            
+               var fullName = Console.ReadLine();
+               var currentDate = DateTime.Now;
+
+               Console.WriteLine($"{Environment.NewLine} Hello {fullName} on {currentDate:d} at {currentDate:t}");
+               Console.WriteLine($"{Environment.NewLine} Press any key to exit...");
+               Console.ReadKey(true);           
                                                                                 
         }
     }
