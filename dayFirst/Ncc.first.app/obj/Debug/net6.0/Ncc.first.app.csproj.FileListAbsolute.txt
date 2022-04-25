@@ -1,0 +1,15 @@
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/bin/Debug/net6.0/Ncc.first.app
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/bin/Debug/net6.0/Ncc.first.app.deps.json
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/bin/Debug/net6.0/Ncc.first.app.runtimeconfig.json
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/bin/Debug/net6.0/Ncc.first.app.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/bin/Debug/net6.0/Ncc.first.app.pdb
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/Ncc.first.app.csproj.AssemblyReference.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/Ncc.first.app.GeneratedMSBuildEditorConfig.editorconfig
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/Ncc.first.app.AssemblyInfoInputs.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/Ncc.first.app.AssemblyInfo.cs
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/Ncc.first.app.csproj.CoreCompileInputs.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/Ncc.first.app.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/refint/Ncc.first.app.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/Ncc.first.app.pdb
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/Ncc.first.app.genruntimeconfig.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.first.app/obj/Debug/net6.0/ref/Ncc.first.app.dll
