@@ -1,0 +1,15 @@
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/bin/Debug/net6.0/Ncc.datatypes
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/bin/Debug/net6.0/Ncc.datatypes.deps.json
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/bin/Debug/net6.0/Ncc.datatypes.runtimeconfig.json
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/bin/Debug/net6.0/Ncc.datatypes.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/bin/Debug/net6.0/Ncc.datatypes.pdb
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/Ncc.datatypes.csproj.AssemblyReference.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/Ncc.datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/Ncc.datatypes.AssemblyInfoInputs.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/Ncc.datatypes.AssemblyInfo.cs
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/Ncc.datatypes.csproj.CoreCompileInputs.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/Ncc.datatypes.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/refint/Ncc.datatypes.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/Ncc.datatypes.pdb
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/Ncc.datatypes.genruntimeconfig.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.datatypes/obj/Debug/net6.0/ref/Ncc.datatypes.dll
