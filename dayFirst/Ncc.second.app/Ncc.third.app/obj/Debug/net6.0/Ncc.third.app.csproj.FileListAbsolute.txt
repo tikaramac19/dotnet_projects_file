@@ -1,0 +1,15 @@
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/bin/Debug/net6.0/Ncc.third.app
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/bin/Debug/net6.0/Ncc.third.app.deps.json
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/bin/Debug/net6.0/Ncc.third.app.runtimeconfig.json
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/bin/Debug/net6.0/Ncc.third.app.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/bin/Debug/net6.0/Ncc.third.app.pdb
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/Ncc.third.app.csproj.AssemblyReference.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/Ncc.third.app.GeneratedMSBuildEditorConfig.editorconfig
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/Ncc.third.app.AssemblyInfoInputs.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/Ncc.third.app.AssemblyInfo.cs
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/Ncc.third.app.csproj.CoreCompileInputs.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/Ncc.third.app.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/refint/Ncc.third.app.dll
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/Ncc.third.app.pdb
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/Ncc.third.app.genruntimeconfig.cache
+/home/tikaramac/TikaramAc/dotnet/dayFirst/Ncc.second.app/Ncc.third.app/obj/Debug/net6.0/ref/Ncc.third.app.dll
