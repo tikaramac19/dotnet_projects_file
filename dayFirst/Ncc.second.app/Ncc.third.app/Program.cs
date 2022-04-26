@@ -24,6 +24,7 @@ namespace ConditionalStatement
             }
 
             ConditionalStatement();
+            switchStatement();
             return;
 
         }
@@ -59,14 +60,42 @@ namespace ConditionalStatement
             Console.WriteLine(day);
         }
         static void switchStatement ()
-        {
+        {   
+            Console.WriteLine("Eneter the day: ");
             var choice1 = Convert.ToInt32(Console.ReadLine());
-            string dat1 = "";
+            string days = "";
 
             switch(choice1)
             {
-               
+               case 1:
+                    days = "sunday";
+                    break ;
+                case 2:
+                    days = "mondey";
+                    break;
+                case 3:
+                    days = "Tuesday";
+                    break;
+                case 4:
+                    days = "Tuesday";
+                    break;
+                case 5:
+                    days = "Tuesday";
+                    break;
+                case 6:
+                    days = "Tuesday";
+                    break;
+                case 7:
+                    days = "Tuesday";
+                    break;
+                default:
+                        days ="Invalid day";
+                        break;
+
             }
+            
+            Console.WriteLine(days);
+
         }
 
     }
