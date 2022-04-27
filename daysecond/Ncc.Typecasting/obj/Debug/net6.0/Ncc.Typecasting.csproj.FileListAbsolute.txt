@@ -1,0 +1,15 @@
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/bin/Debug/net6.0/Ncc.Typecasting
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/bin/Debug/net6.0/Ncc.Typecasting.deps.json
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/bin/Debug/net6.0/Ncc.Typecasting.runtimeconfig.json
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/bin/Debug/net6.0/Ncc.Typecasting.dll
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/bin/Debug/net6.0/Ncc.Typecasting.pdb
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/Ncc.Typecasting.csproj.AssemblyReference.cache
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/Ncc.Typecasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/Ncc.Typecasting.AssemblyInfoInputs.cache
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/Ncc.Typecasting.AssemblyInfo.cs
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/Ncc.Typecasting.csproj.CoreCompileInputs.cache
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/Ncc.Typecasting.dll
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/refint/Ncc.Typecasting.dll
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/Ncc.Typecasting.pdb
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/Ncc.Typecasting.genruntimeconfig.cache
+/home/tikaramac/TikaramAc/dotnet/daysecond/Ncc.Typecasting/obj/Debug/net6.0/ref/Ncc.Typecasting.dll
