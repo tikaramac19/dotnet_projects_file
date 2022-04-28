@@ -11,7 +11,7 @@ namespace Ncc.userInput
             Console.WriteLine("lets learn details about user Input ! ");
 
             userInput();
-
+            operatior();
             return;
         }
         public static void userInput()
