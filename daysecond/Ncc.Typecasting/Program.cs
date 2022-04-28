@@ -109,11 +109,38 @@ namespace Typecasting
 
             // Explicit casting
             // explicit casting must be done manually by placing the type in parentheses in front of the alue:
-            double myDouble1 = 11.11;
+            double myDouble1 = 11.11d;
             int myInt1 = (int) myDouble1;
-
+            
+            Console.WriteLine(myDouble1);
             Console.WriteLine($"The int value is : {myInt1}"); // output : 11
 
+            float myFloat = 2.22247f;
+            int num1 = (int) myFloat;
+
+            Console.WriteLine(myFloat);
+            Console.WriteLine(num1);
+            // BY this way you can do similar examples with other types also.
+
+            //Type Conversion Methonds
+
+            // It is also possible to convert data types explicitly by using build-in methods, such as 
+            // Convert.ToBoolean, Convert.ToDouble, Convert.ToString, Convert.ToInt32(int) and Convert.ToInt64(long);
+
+            // examples
+
+            int myInt2 =23;
+            double myDouble2 = 6.678d;
+            bool myBool = true;
+
+            Console.WriteLine(Convert.ToInt32(myDouble2)); // converts double into int
+            Console.WriteLine(Convert.ToString(myInt2));  // converts int to string 
+            Console.WriteLine(Convert.ToDouble(myInt2));   // converts int to double
+            Console.WriteLine(Convert.ToString(myBool));    // converts boolean into string 
+
+            // Why conversion ?
+
+            // Many times, there's no need for type conversion. But sometimes you have to. 
         }
     }
 }
