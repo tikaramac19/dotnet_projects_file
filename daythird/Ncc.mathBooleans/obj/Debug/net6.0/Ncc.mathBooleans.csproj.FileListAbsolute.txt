@@ -1,0 +1,15 @@
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/bin/Debug/net6.0/Ncc.mathBooleans
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/bin/Debug/net6.0/Ncc.mathBooleans.deps.json
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/bin/Debug/net6.0/Ncc.mathBooleans.runtimeconfig.json
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/bin/Debug/net6.0/Ncc.mathBooleans.dll
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/bin/Debug/net6.0/Ncc.mathBooleans.pdb
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/Ncc.mathBooleans.csproj.AssemblyReference.cache
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/Ncc.mathBooleans.GeneratedMSBuildEditorConfig.editorconfig
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/Ncc.mathBooleans.AssemblyInfoInputs.cache
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/Ncc.mathBooleans.AssemblyInfo.cs
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/Ncc.mathBooleans.csproj.CoreCompileInputs.cache
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/Ncc.mathBooleans.dll
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/refint/Ncc.mathBooleans.dll
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/Ncc.mathBooleans.pdb
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/Ncc.mathBooleans.genruntimeconfig.cache
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.mathBooleans/obj/Debug/net6.0/ref/Ncc.mathBooleans.dll
