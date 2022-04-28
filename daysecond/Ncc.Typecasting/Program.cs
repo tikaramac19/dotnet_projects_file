@@ -6,16 +6,10 @@ namespace Typecasting
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("About TypeCasting !");
 
-            //Type casting is when you assign va value of one data type to another type.
-
-            // Implicit casting(automatically)
-            // convertig a smaller type to a larger type size
-
-
+            typeCasting();
             // loopingStatement();
-            stringConcatinate();
+            // stringConcatinate();
             return;
         }
 
@@ -92,6 +86,34 @@ namespace Typecasting
             }
             
             
+        }
+        public static void typeCasting()
+        {
+                 Console.WriteLine("About TypeCasting !");
+
+            //Type casting is when you assign va value of one data type to another type.
+
+            // Implicit casting(automatically)
+            // convertig a smaller type to a larger type size
+            // char -> int -> long -> float -> double
+
+
+            // Implicit casting is done automatically when passing a smaller size type to a larger size type
+
+            int myInt = 22;
+
+            double myDouble = myInt; // automatic casting : int to double
+
+            Console.WriteLine(myInt); // output : 22
+            Console.WriteLine(myDouble); // output : 22
+
+            // Explicit casting
+            // explicit casting must be done manually by placing the type in parentheses in front of the alue:
+            double myDouble1 = 11.11;
+            int myInt1 = (int) myDouble1;
+
+            Console.WriteLine($"The int value is : {myInt1}"); // output : 11
+
         }
     }
 }
