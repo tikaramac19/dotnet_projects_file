@@ -62,5 +62,25 @@ namespace Ncc.userInput
 
             Console.WriteLine($"Your age is : {age}");
         }
+
+        public static void operatior()
+        {
+            // operators are used to perform operations on variables and values
+
+            int x = 200 + 11;
+
+            // Althought the + operator is often used to add together two values, it can also used to 
+            // add together a variable and a value, or variable and another variable
+
+            int sum1 = 200 + 300;
+            int sum2 = sum1 + 22;
+            int sum3 = sum1 + sum2;
+
+            Console.WriteLine( $" {sum1} , {sum2} , {sum3}");
+
+            // Arithematic operators 
+            // Arithemetic operators are used to perform common mathematical operations.
+            // + , - , * , / , % , ++ , -- 
+        }
     }
 }
