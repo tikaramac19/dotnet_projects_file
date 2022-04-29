@@ -10,7 +10,9 @@ namespace Ncc.mathBooleans
         {
             Console.WriteLine("Working with inbuild math classes.");
 
-            mathMethod();
+            // mathMethod();
+
+            aboutBoolean();
 
             return;
             
@@ -58,6 +60,43 @@ namespace Ncc.mathBooleans
 
 
 
+        }
+
+        public static void aboutBoolean()
+        {
+                Console.WriteLine("ABout Boolean ");
+                // In programming, you will need a data type that can only have one of two values, like:
+                // YES/NO
+                // ON/OFF
+                // TRUE/FALSE
+
+                //for this , c# has a bool data type, which can take the values true or false.
+
+                //Boolean Values
+
+                bool isCsharpFun = true;
+                bool isBuffTesty = false;  //Being a bahun i dont like this shit haha.
+
+                Console.WriteLine(isBuffTesty);
+                Console.WriteLine(isCsharpFun); 
+
+                // Boolean Expression
+                // A boolean expression is a c# expression that returns a boolean value: true or false;
+                // You can use the comparasion operator, such as the greater than(>) operator to find of if an expression 
+                // (or a variable) is true.
+
+                int x = 10;
+                int y = 6;
+
+                Console.WriteLine(x>y); //true
+                Console.WriteLine(y > x); // false
+
+                // equal to operator to ealuate an expression
+
+                int z = 22;
+                Console.WriteLine(z ==22); //returns true
+
+                Console.WriteLine(z == 21); //returns false
         }
     }
 }
