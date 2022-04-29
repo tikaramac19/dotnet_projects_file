@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using System;
+using System.Linq;
 
 namespace Ncc.mathBooleans
 {
@@ -12,7 +13,9 @@ namespace Ncc.mathBooleans
 
             // mathMethod();
 
-            aboutBoolean();
+            // aboutBoolean();
+
+            aboutArray();
 
             return;
             
@@ -97,6 +100,97 @@ namespace Ncc.mathBooleans
                 Console.WriteLine(z ==22); //returns true
 
                 Console.WriteLine(z == 21); //returns false
+        }
+
+        public static void aboutArray()
+        {
+            Console.WriteLine("About array !");
+            // Arrays are used to store multiple values in a single variable, instead of declaring separate variable for each value.
+            // To declare an array, define the variable type with square brackets.
+
+            // string[] cars
+
+            string[] cars = {"volvo", "Tesla", "ford", "BMW"};
+            Console.WriteLine(cars[0]);
+
+            //Access the elements of an array
+            Console.WriteLine(cars[2]);
+
+            //check length of an array
+            Console.WriteLine(cars.Length);
+
+            // to change an array
+            cars[3] = "Tata";
+            Console.WriteLine(cars[3]);
+
+            // loop through an array
+            //using forEach loop
+            foreach(string item in cars){
+                string items = item;
+            Console.WriteLine(items);
+
+            }
+
+            //using for loop
+             Console.WriteLine("Datas are : ");
+
+            for(int i = 0 ; i< cars.Length ; i++)
+            {
+                string cardata = cars[i];
+                Console.WriteLine(cardata);
+            }
+
+            // Sort Arrays
+            //There are many arry methods available , for example sort(), which sorts an array alphabetically 
+            //or in an ascending order
+
+            // sort a string 
+            
+            string[] names = {"Tikaram", "anjal" , "manish", "ural" , "bibas"};
+
+            Array.Sort(names);
+            Console.WriteLine("The ascending order of given array values is: ");
+            foreach(string item in names){
+                Console.WriteLine(item);
+            }
+
+            // System.Linq Namespace
+
+            //other useful array methods, such as Min, Max and Sum can be found in the system.linq namespace;
+
+            int[] myNum = {5,2,7,9,4,6,1};
+
+            Console.WriteLine(myNum.Max());
+            Console.WriteLine(myNum.Min());
+            Console.WriteLine(myNum.Sum());
+
+
+            // Others ways to create an Array
+            // we can also create array using new keyword.
+            
+            // create an array of five elements , and add values later
+            string[] array1 = new string[5];
+
+            // creates an array of four elements and add values righ away
+            string[] array2 = new string[4] {"one","two" , "three" , "four"};
+
+
+            // create an array of four elements without specifying the size
+            // string array3 = new string[] {"one" , "two", "three", "four"};
+
+            // create an array of four elements, omitting the new keyword, and without specifying the size.
+
+            string[] array4 = {"One", "Two" ,"Three", "Four"};  
+
+            // last option is faster and easier to read 
+            //Note: If you declare an array and initialize it later, you have to use the new keyword.
+
+            //declare an array
+            int[] num1 ;
+
+            // Add values , using new 
+            num1 = new int[] {1,2,3,4,5};
+
         }
     }
 }
