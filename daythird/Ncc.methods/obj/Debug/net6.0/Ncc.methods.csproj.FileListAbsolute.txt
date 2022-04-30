@@ -1,0 +1,15 @@
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/bin/Debug/net6.0/Ncc.methods
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/bin/Debug/net6.0/Ncc.methods.deps.json
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/bin/Debug/net6.0/Ncc.methods.runtimeconfig.json
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/bin/Debug/net6.0/Ncc.methods.dll
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/bin/Debug/net6.0/Ncc.methods.pdb
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/Ncc.methods.csproj.AssemblyReference.cache
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/Ncc.methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/Ncc.methods.AssemblyInfoInputs.cache
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/Ncc.methods.AssemblyInfo.cs
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/Ncc.methods.csproj.CoreCompileInputs.cache
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/Ncc.methods.dll
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/refint/Ncc.methods.dll
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/Ncc.methods.pdb
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/Ncc.methods.genruntimeconfig.cache
+/home/tikaramac/TikaramAc/dotnet/daythird/Ncc.methods/obj/Debug/net6.0/ref/Ncc.methods.dll
