@@ -4,7 +4,7 @@ using System;
 
 namespace ObjectClass
 {
-    class progrem
+    class Program
     {
         public static void Main(string[] args)
         {
@@ -20,7 +20,29 @@ namespace ObjectClass
             // Class: fruits, objects: apple, banana, mango etc.
             // class: car,  objects: olvo , audi , toyota etc.
 
-            // so , a class is a template for objects, and an object is an instance of a class.      
+            // so , a class is a template for objects, and an object is an instance of a class.
+
+            car myobj = new car();
+            
+            Console.WriteLine(myobj.color);
+            
+            Console.WriteLine(myobj.speed);
+
+            Console.WriteLine(myobj.weight);
+
+            // modifying the blank fields while creating objects
+            myobj.fname = "Tikaram";
+            myobj.lname = "Acharya";
+
+            Console.WriteLine(myobj.fname);
+            Console.WriteLine(myobj.lname);
+
+            // object methods
+
+            myobj.fullname(myobj.fname, myobj.lname);
+
+            
+
         }
 
        
