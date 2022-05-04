@@ -1,0 +1,15 @@
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/bin/Debug/net6.0/Ncc.object
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/bin/Debug/net6.0/Ncc.object.deps.json
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/bin/Debug/net6.0/Ncc.object.runtimeconfig.json
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/bin/Debug/net6.0/Ncc.object.dll
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/bin/Debug/net6.0/Ncc.object.pdb
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/Ncc.object.csproj.AssemblyReference.cache
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/Ncc.object.GeneratedMSBuildEditorConfig.editorconfig
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/Ncc.object.AssemblyInfoInputs.cache
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/Ncc.object.AssemblyInfo.cs
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/Ncc.object.csproj.CoreCompileInputs.cache
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/Ncc.object.dll
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/refint/Ncc.object.dll
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/Ncc.object.pdb
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/Ncc.object.genruntimeconfig.cache
+/home/tikaramac/TikaramAc/dotnet/dayfour/Ncc.object/obj/Debug/net6.0/ref/Ncc.object.dll
