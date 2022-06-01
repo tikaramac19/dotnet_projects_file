@@ -6,39 +6,42 @@ namespace Object
 { 
     class Program
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
-            Console.WriteLine("About Static and non-static class");
+           
 
-            // staticClass objOne = new staticClass();
-            // This is not valid because staticClass itself a object
+            Car ob1 = new Car(); // creating object of the class Car
+            Car ob2 = new Car();
+
+            Car Ford = new Car();
+                Ford.model = "Mustang";
+                Ford.color = "Green";
+                Ford.year = 1999;
+
+            Car opel = new Car();
+                opel.model = "Astra";
+                opel.color = "red";
+                opel.year = 2015;
+
+            Console.WriteLine(Ford.model);
+            Console.WriteLine(opel.model);
+
+            // Console.WriteLine(ob1.color);
+            // Console.WriteLine(ob2.color);
+
+            ClassMem obj3 = new ClassMem();
+
+            obj3.inform();
+            Console.WriteLine(obj3.maxSpeed);
+            
+            // working with constructor
+
+            FullName name = new FullName("prasad");
+
+            Console.WriteLine($"my name is {name.fname} {name.lname}.");
+          
         }
     }
 
-    public class NonStaticClass{
-            public int i = 10;
-
-        public void functionOne(){
-
-            // public NonStaticClass(){
-
-            // }
-
-        }
-        
-    }
-        //for static classs , all the members should be static like properties, methods , variables , 
-        // constructor , distructor etc.
-    public static class staticClass{
-        // public void functionOne() is not allowed
-
-        public static int i = 10;
-        public static void functionOne(){
-
-            // static staticClass(){
-                
-            // }
-        }
-
-    }
+   
 }
