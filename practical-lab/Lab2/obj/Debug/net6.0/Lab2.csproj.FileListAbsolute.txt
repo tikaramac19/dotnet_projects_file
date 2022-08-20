@@ -1,0 +1,15 @@
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/bin/Debug/net6.0/Lab2
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/bin/Debug/net6.0/Lab2.deps.json
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/bin/Debug/net6.0/Lab2.runtimeconfig.json
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/bin/Debug/net6.0/Lab2.dll
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/bin/Debug/net6.0/Lab2.pdb
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/Lab2.csproj.AssemblyReference.cache
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/Lab2.AssemblyInfoInputs.cache
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/Lab2.AssemblyInfo.cs
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/Lab2.csproj.CoreCompileInputs.cache
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/Lab2.dll
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/refint/Lab2.dll
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/Lab2.pdb
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/Lab2.genruntimeconfig.cache
+/home/tikaramac/TikaramAc/dotnet/practical-lab/Lab2/obj/Debug/net6.0/ref/Lab2.dll
