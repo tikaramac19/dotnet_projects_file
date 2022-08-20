@@ -9,23 +9,37 @@
             // creating object of class Introduction
 
             Introduction obj1 = new Introduction();
-            
+
             obj1.FullName("Tikaram", "Acharya");
 
         }
 
-
-    }
-
-    // creating class called introduction
-    public class Introduction
-    {
-        public  void FullName(string fname, string lname)
+        // creating class called introduction
+        public class Introduction
         {
+            public void FullName(string fname, string lname)
+            {
 
-            string fullname = fname + " " + lname;
+                string fullname = fname + " " + lname;
 
-            Console.WriteLine("My name is " + fullname + ".");
+                Console.WriteLine("My name is " + fullname + ".");
+
+                // Single Inheritence
+                SingleInheritence();
+
+                // multiple inheritence
+
+            }
+        }
+
+        static void SingleInheritence()
+        {
+            Console.WriteLine("About Single Inheritence !!");
+            
+            Cat c1 = new Cat();
+
+            c1.Color();
+            c1.Eat();
         }
     }
 
