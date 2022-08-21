@@ -41,6 +41,19 @@
             c1.Color();
             c1.Eat();
         }
+
+        // multiple inheritence
+
+        static void MultipleInheritence()
+        {
+            Console.WriteLine("About Multiple Inheritence");
+
+            _Dog d1 = new _Dog();
+
+            d1._breathe();
+            d1._eat();
+            d1._bark();
+        }
     }
 
 }
